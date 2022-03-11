@@ -30,7 +30,7 @@
 }
 
 .dsmovie-pagination-button svg {
-  filter: brightness(0) saturate(100%) invert(26%) sepia(19%) saturate(7395%) hue-rotate(234deg) brightness(89%) contrast(92%);
+  filter: invert(31%) sepia(51%) saturate(4088%) hue-rotate(333deg) brightness(96%) contrast(83%);
 }
 
 .dsmovie-pagination-button:disabled {
