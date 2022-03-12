@@ -1,7 +1,7 @@
 # Projeto DSMovie - [Netlify](https://di-dsmovie.netlify.app/)
 
 ### Página Inicial do Projeto
-![Foto da página inicial do projeto](https://i.imgur.com/Rz5wgWv.png)
+![Foto da página inicial do projeto](https://i.imgur.com/hNvJ46Q.png)
 
 ### _Semana Spring React DevSuperior_
 
